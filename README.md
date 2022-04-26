@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Peter Zhou 
 
-<!--
-**PPPeterZhou/PPPeterZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PPPeterZhou&label=Profile%20views&color=0e75b6&style=flat-square" alt="PPPeterZhou" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at **Robert Bosch** as an SDE intern.
+- 🌱 I’m currently learning Computing Science at University of Alberta
+- 📫 pppeterzhou@gmail.com
+- ⚡ Fun fact: being a **Python** main will destroy your career and life
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPPeterZhou&theme=onedark"/></p> -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PPPeterZhou&show_icons=true&theme=onedark&hide_border=true&locale=en" alt="PPPeterZhou" /></p>
